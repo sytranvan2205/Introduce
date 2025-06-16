@@ -1,16 +1,56 @@
-### Hi there 👋
-Hello, I'm Sy Tran Van
-<!--
-**sytranvan2205/sytranvan2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Java Developer | Backend Engineer | Microservices Enthusiast
 
-Here are some ideas to get you started:
+🚀 Welcome to my GitHub! I'm a Java Developer with **2+ years of hands-on experience** in crafting scalable, high-performance backend systems. I specialize in building robust web applications and microservices, particularly in **Distribution Management Systems (DMS)** and **eCommerce** domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack & Expertise
+
+- 🔹 **Java 8+** — Solid grasp of OOP, functional programming, and clean code practices  
+- 🔹 **Spring Framework**:
+  - **Spring Boot** — Microservice architecture made simple
+  - **Spring MVC** — Structured and responsive web layer
+  - **Spring Data JPA** — Seamless ORM with Hibernate
+  - **Spring Security** — End-to-end authentication & authorization
+- 🔹 **RESTful API** design — Clean, versioned APIs with **Swagger/OpenAPI** documentation
+- 🔹 **Database Interaction** — Strong experience with SQL, JPA, and relational data modeling
+
+---
+
+## 🧠 Domain Knowledge
+
+📦 **Distribution Management System (DMS)**  
+Expertise in building systems for:
+- Sales and order management
+- Inventory tracking
+- Route planning and delivery operations
+
+🛍️ **eCommerce (beginner exposure)**  
+Currently exploring integration points with product, cart, and user management.
+
+---
+
+## 🧪 Testing & DevOps
+
+- ✅ Unit Testing: **JUnit**, **Mockito**
+- 🔁 CI/CD Pipelines: **Jenkins**
+- 🐳 Containerization: **Docker**
+
+---
+
+## 🚀 Soft Skills
+
+- ⚡ Quick learner with a proactive mindset
+- 🔍 Strong problem-solving and debugging skills
+- 🤝 Agile team player, comfortable with SCRUM and cross-functional collaboration
+
+---
+
+## 📫 Let’s Connect!
+
+Feel free to check out my repositories, open issues, or fork anything you find helpful.  
+If you're working on something exciting in the **DMS or eCommerce space**, let's collaborate!
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
